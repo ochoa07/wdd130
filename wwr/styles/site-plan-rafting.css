@@ -1,30 +1,30 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #3358A0   ;
-  --secondary-color: #EC8C27 ;
+  --primary-color: #2a9d8f   ;
+  --secondary-color: #7eafbb ;
   --accent1-color: #ECC527;
   --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Rock Salt";
-  --paragraph-font: Abadi, Helvetica, sans-serif;
+  --heading-font: "Fraunces";
+  --paragraph-font: "Lato", Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --paragraph-color-on-white: #3358A0; /* paragraph text on a white background */ 
-  --headline-color-on-white: #EC8C27;  /* headlines on a white background */ 
+  --paragraph-color-on-white: #2a9d8f; /* paragraph text on a white background */ 
+  --headline-color-on-white: #7eafbb;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #3358A0  ;
+  --paragraph-background-color: #7eafbb  ;
   --nav-link-color: white;
-  --nav-background-color: #ECC527;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #EC8C27;
+  --nav-background-color: #2a9d8f;
+  --nav-hover-link-color: #ECC527;
+  --nav-hover-background-color: #2a9d8f;
 }
 
 
