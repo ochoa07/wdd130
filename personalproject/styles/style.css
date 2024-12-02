@@ -153,8 +153,8 @@ footer p a:hover {
     box-sizing: border-box;
     grid-column: 1/5;
     grid-row: 4/7;
-    width: 600px;
-    border: 20px solid #cb997e;
+    width: 650px;
+    border: 20px solid #C07623;
     margin-top: 100px;
 }
 
@@ -163,7 +163,7 @@ footer p a:hover {
     grid-row: 4/6;
     font-size: 30px;
     margin-top: 100px;
-    color: #C07623;
+    color: #cb997e;
     font-family: 'Marcellus', Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
 }
 
@@ -171,15 +171,15 @@ footer p a:hover {
     box-sizing: border-box;
     grid-column: 8/11;
     grid-row: 6/9;
-    width: 600px;
-    border: 20px solid #cb997e;
+    width: 650px;
+    border: 20px solid #C07623;
 }
 
 .pim2 {
     grid-column: 1/5;
     grid-row: 7/9;
     font-size: 30px;
-    color: #C07623;
+    color: #cb997e;
     font-family: 'Marcellus', Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
 }
 
@@ -190,8 +190,9 @@ footer p a:hover {
     font-size: 30px;
     margin-top: 150px;
     margin-bottom: 0px;
-    color: #C07623;
+    color: #cb997e;
     font-family: 'Marcellus', Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 
