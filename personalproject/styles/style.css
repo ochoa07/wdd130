@@ -5,7 +5,7 @@
 /* NAVEGACION */
 
 body {
-    background-color: white; 
+    background-color: #fefae0; 
     font-family: 'Fraunces', Arial, 'Open sans';
     font-size: 22px;
     margin: 0;
@@ -190,7 +190,8 @@ footer p a:hover {
     font-size: 30px;
     margin-top: 150px;
     margin-bottom: 0px;
-    color: #C07623;;
+    color: #C07623;
+    font-family: 'Marcellus', Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
 }
 
 
